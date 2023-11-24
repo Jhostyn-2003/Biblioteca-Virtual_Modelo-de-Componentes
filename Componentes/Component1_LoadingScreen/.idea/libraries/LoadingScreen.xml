@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LoadingScreen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LoadingScreen/out/artifacts/LoadingScreen_jar/LoadingScreen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

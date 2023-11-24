@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SearchBookComponent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Componentes/Componet4_SearchComponent/SearchComponent/out/artifact/SearchBookComponent_jar/SearchBookComponent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Componentes/Componet4_SearchComponent/SearchComponent/out/artifact/SearchBookComponent_jar/SearchBookComponent.jar!/" />
+    </SOURCES>
+  </library>
+</component>
